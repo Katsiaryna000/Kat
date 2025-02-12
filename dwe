@@ -1,1 +1,9 @@
+plansza = [1,2,3,4,5,6,7,8,9]
+print(f''
+[{plansza[0]}][{plansza[1]}][{plansza[2]}]
+[{plansza[3]}][{plansza[4]}][{plansza[5]}]
+[{plansza[6]}][{plansza[7]}][{plansza[8]}]
+''')
 
+miejsce = int(input("wybierz numer"))
+plansza[m
